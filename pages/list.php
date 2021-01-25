@@ -27,8 +27,8 @@
 			<td class="buttons">
 				<form name="inputs">
 					<input type="hidden" name="id" value="" />
-					<button formaction="update.html" formmethod="post" name="action" value="update">更新</button>
-					<button formaction="confirm.html" formmethod="post" name="action" value="delete">削除</button>
+					<button formaction="update.php" formmethod="post" name="action" value="update">更新</button>
+					<button formaction="confirm.php" formmethod="post" name="action" value="delete">削除</button>
 				</form>
 			</td>
 		</tr>
@@ -40,9 +40,9 @@
 			<td class="buttons">
 				<form name="inputs">
 					<input type="hidden" name="id" value="" />
-					<button formaction="update.html" formmethod="post" name="action" value="update">更新</button>
-					<button formaction="confirm.html" formmethod="post" name="action" value="delete">削除</button>
-				</form>
+					<button formaction="update.php" formmethod="post" name="action" value="update">更新</button>
+					<button formaction="confirm.php" formmethod="post" name="action" value="delete">削除</button>
+				</form>\
 			</td>
 		</tr>
 		<tr>
@@ -53,8 +53,8 @@
 			<td class="buttons">
 				<form name="inputs">
 					<input type="hidden" name="id" value="" />
-					<button formaction="update.html" formmethod="post" name="action" value="update">更新</button>
-					<button formaction="confirm.html" formmethod="post" name="action" value="delete">削除</button>
+					<button formaction="update.php" formmethod="post" name="action" value="update">更新</button>
+					<button formaction="confirm.php" formmethod="post" name="action" value="delete">削除</button>
 				</form>
 			</td>
 		</tr>
@@ -66,8 +66,8 @@
 			<td class="buttons">
 				<form name="inputs">
 					<input type="hidden" name="id" value="" />
-					<button formaction="update.html" formmethod="post" name="action" value="update">更新</button>
-					<button formaction="confirm.html" formmethod="post" name="action" value="delete">削除</button>
+					<button formaction="update.php" formmethod="post" name="action" value="update">更新</button>
+					<button formaction="confirm.php" formmethod="post" name="action" value="delete">削除</button>
 				</form>
 			</td>
 		</tr>
@@ -79,8 +79,8 @@
 			<td class="buttons">
 				<form name="inputs">
 					<input type="hidden" name="id" value="" />
-					<button formaction="update.html" formmethod="post" name="action" value="update">更新</button>
-					<button formaction="confirm.html" formmethod="post" name="action" value="delete">削除</button>
+					<button formaction="update.php" formmethod="post" name="action" value="update">更新</button>
+					<button formaction="confirm.php" formmethod="post" name="action" value="delete">削除</button>
 				</form>
 			</td>
 		</tr>
@@ -92,8 +92,8 @@
 			<td class="buttons">
 				<form name="inputs">
 					<input type="hidden" name="id" value="" />
-					<button formaction="update.html" formmethod="post" name="action" value="update">更新</button>
-					<button formaction="confirm.html" formmethod="post" name="action" value="delete">削除</button>
+					<button formaction="update.php" formmethod="post" name="action" value="update">更新</button>
+					<button formaction="confirm.php" formmethod="post" name="action" value="delete">削除</button>
 				</form>
 			</td>
 		</tr>
@@ -105,8 +105,8 @@
 			<td class="buttons">
 				<form name="inputs">
 					<input type="hidden" name="id" value="" />
-					<button formaction="update.html" formmethod="post" name="action" value="update">更新</button>
-					<button formaction="confirm.html" formmethod="post" name="action" value="delete">削除</button>
+					<button formaction="update.php" formmethod="post" name="action" value="update">更新</button>
+					<button formaction="confirm.php" formmethod="post" name="action" value="delete">削除</button>
 				</form>
 			</td>
 		</tr>
@@ -118,8 +118,8 @@
 			<td class="buttons">
 				<form name="inputs">
 					<input type="hidden" name="id" value="" />
-					<button formaction="update.html" formmethod="post" name="action" value="update">更新</button>
-					<button formaction="confirm.html" formmethod="post" name="action" value="delete">削除</button>
+					<button formaction="update.php" formmethod="post" name="action" value="update">更新</button>
+					<button formaction="confirm.php" formmethod="post" name="action" value="delete">削除</button>
 				</form>
 			</td>
 		</tr>
